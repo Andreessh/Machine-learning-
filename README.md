@@ -1,5 +1,5 @@
 # Machine-learning-
-## Día 1 - Lunes
+## Día 1 - Miercoles
 
 M5 - 01 - Python Notebook
 
