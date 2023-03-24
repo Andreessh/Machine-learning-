@@ -12,3 +12,11 @@ M5 - 03 - Bucles
 M5 - 01 - SpaceX - 3 -EDA Using SQL
 
 M5 - 02 - SpaceX - 1 - Data Collection
+
+## Día 3 - Viernes 
+
+M5 - 01 -  Folium
+
+M5 - 02 - Prophet - Predecir el valor de Bitcoin
+
+M5 - 03 -  Introducción a Machine Learning 
